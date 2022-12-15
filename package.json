@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/webkul/coolhue#readme",
   "devDependencies": {
-    "browser-sync": "^2.24.5"
+    "browser-sync": "^2.27.10"
   }
 }
